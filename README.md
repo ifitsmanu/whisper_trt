@@ -1,6 +1,3 @@
-Below is a final `README.md` that consolidates all the requested information and clearly explains the project's purpose, setup, and usage:
-
-```markdown
 # Whisper C++ + TensorRT Integration
 
 **Author:** Manu Bhardwaj ([@ifitsmanu](https://github.com/ifitsmanu))
